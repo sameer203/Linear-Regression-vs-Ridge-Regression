@@ -1,7 +1,7 @@
 # Linear Regression vs Ridge Regression
 
-# Comparing the performance of Ridge Regression over Linear Regression
+Comparing the performance of Ridge Regression over Linear Regression
 
-# Estimating the best alpha score for maximum performance
+Estimating the best alpha score for maximum performance
 
-# Used GridsearchCV to Estimate the values
+Used GridsearchCV to Estimate the values
